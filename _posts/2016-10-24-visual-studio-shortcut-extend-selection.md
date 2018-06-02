@@ -21,8 +21,8 @@ Line Start Extend: Shift + Home
 
 ![line start end extend gif]({{ "/assets/Line Start End Extend.gif" | absolute_url }})
 
-Word Previous Extend: Ctrl + Shift + Left Arrow  
-Word Next Extend: Ctrl + Shift + Right Arrow
+Word Next Extend: Ctrl + Shift + Right Arrow  
+Word Previous Extend: Ctrl + Shift + Left Arrow
 
 ![word next previous extend gif]({{ "assets/Word Next Previous Extend.gif" | absolute_url }})
 
