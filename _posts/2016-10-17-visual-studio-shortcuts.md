@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Visual Studio Shortcuts
-categories: [Visual Studio, Shortcut]
+categories: [Visual Studio, Shortcuts]
+tags: [Visual Studio Shortcuts]
 ---
 
 > When you’re a fast, efficient typist, you spend less time between thinking that thought and expressing it in code.
