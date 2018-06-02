@@ -11,12 +11,15 @@ So let's learn to extend selection without using the mouse. These shortcuts are 
 
 Bonus: these shortcuts work throughout the OS; try them anywhere there is text input.
 
-Character Left Extend: Shift + Left Arrow  
 Character Right Extend: Shift + Right Arrow  
-![what]({{ "/assets/Character Extend.gif" | absolute_url }})
+Character Left Extend: Shift + Left Arrow
+
+![character extend gif]({{ "/assets/Character Extend.gif" | absolute_url }})
 
 Line End Extend: Shift + End  
 Line Start Extend: Shift + Home
+
+![line start end extend gif]({{ "/assets/line start end extend.gif" }})
 
 Word Previous Extend: Ctrl + Shift + Left Arrow  
 Word Next Extend: Ctrl + Shift + Right Arrow
