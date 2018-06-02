@@ -19,14 +19,14 @@ Character Left Extend: Shift + Left Arrow
 Line End Extend: Shift + End  
 Line Start Extend: Shift + Home
 
-![line start end extend gif]({{ "/assets/line start end extend.gif" | absolute_url }})
+![line start end extend gif]({{ "/assets/Line Start End Extend.gif" | absolute_url }})
 
 Word Previous Extend: Ctrl + Shift + Left Arrow  
 Word Next Extend: Ctrl + Shift + Right Arrow
 
-![word next previous extend gif]({{ "assets/word next previous extend.gif" | absolute_url }})
+![word next previous extend gif]({{ "assets/Word Next Previous Extend.gif" | absolute_url }})
 
 Line Up Extend: Shift + Up Arrow  
 Line Down Extend: Shift + Down Arrow
 
-![line up down extend gif]({{ "assets/line up down extend.gif" | absolute_url }})
+![line up down extend gif]({{ "assets/Line Up Down Extend.gif" | absolute_url }})
