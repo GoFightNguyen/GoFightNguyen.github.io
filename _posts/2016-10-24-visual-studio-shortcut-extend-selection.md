@@ -14,19 +14,19 @@ Bonus: these shortcuts work throughout the OS; try them anywhere there is text i
 Character Right Extend: Shift + Right Arrow  
 Character Left Extend: Shift + Left Arrow
 
-![character extend gif]({{ "/assets/Character Extend.gif" | absolute_url }})
+![character extend gif]({{ "/assets/character-extend.gif" | absolute_url }})
 
 Line End Extend: Shift + End  
 Line Start Extend: Shift + Home
 
-![line start end extend gif]({{ "/assets/Line Start End Extend.gif" | absolute_url }})
+![line start end extend gif]({{ "/assets/line-start-end-extend.gif" | absolute_url }})
 
 Word Next Extend: Ctrl + Shift + Right Arrow  
 Word Previous Extend: Ctrl + Shift + Left Arrow
 
-![word next previous extend gif]({{ "assets/Word Next Previous Extend.gif" | absolute_url }})
+![word next previous extend gif]({{ "assets/word-next-previous-extend.gif" | absolute_url }})
 
 Line Up Extend: Shift + Up Arrow  
 Line Down Extend: Shift + Down Arrow
 
-![line up down extend gif]({{ "assets/Line Up Down Extend.gif" | absolute_url }})
+![line up down extend gif]({{ "assets/line-up-down-extend.gif" | absolute_url }})
