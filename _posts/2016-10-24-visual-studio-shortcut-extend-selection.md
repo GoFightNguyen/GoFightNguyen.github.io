@@ -13,7 +13,7 @@ Bonus: these shortcuts work throughout the OS; try them anywhere there is text i
 
 Character Left Extend: Shift + Left Arrow  
 Character Right Extend: Shift + Right Arrow  
-![what]({{ "/assets/CharacterExtend.gif" | absolute_url }})
+![what]({{ "/assets/Character Extend.gif" | absolute_url }})
 
 Line End Extend: Shift + End  
 Line Start Extend: Shift + Home
