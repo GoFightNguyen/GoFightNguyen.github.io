@@ -8,4 +8,4 @@ permalink: /blog/:title
 exclude:
   - README.md
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
