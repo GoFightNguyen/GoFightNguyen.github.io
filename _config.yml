@@ -2,7 +2,7 @@
 # Configuration flags for customizing the site
 #
 
-permalink: /blob/:title
+permalink: /blog/:title
 
 #Exclude these files from production _site
 exclude:
