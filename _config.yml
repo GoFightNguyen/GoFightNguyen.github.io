@@ -2,6 +2,8 @@
 # Configuration flags for customizing the site
 #
 
+permalink: /blob/:title
+
 #Exclude these files from production _site
 exclude:
   - README.md
