@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-
+# {{ page.title }}
 Here's how to reach me on various communication channels
 
 Thanks for wanting to get in touch with me! 
