@@ -7,5 +7,3 @@ permalink: /blog/:title
 #Exclude these files from production _site
 exclude:
   - README.md
-
-theme: jekyll-theme-time-machine
