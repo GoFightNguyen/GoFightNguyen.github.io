@@ -10,4 +10,4 @@ Move Selected Lines Down: Alt + Down Arrow
 
 These Visual Studio shortcuts can be used to move the current line or a block of code. When moving code a short distance, usually within view, I prefer these shortcuts over cutting, moving to the desired location, and then pasting.
 
-![Move selected lines up and then down]({{"/assets/move-selected-lines.gif" | absolute_url}})
+![Move selected lines up and then down gif]({{"/assets/move-selected-lines.gif" | absolute_url}})

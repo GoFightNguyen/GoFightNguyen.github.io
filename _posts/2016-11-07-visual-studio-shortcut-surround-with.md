@@ -17,6 +17,6 @@ How to use:
 5. If more than one input, use Tab to navigate them
 6. Use Enter to complete the snippet
 
-![Surround with an if/else statement]({{"/assets/surround-with-if-else.gif" | absolute_url}} "Surround with an if/else statement")
+![Surround with an if/else statement gif]({{"/assets/surround-with-if-else.gif" | absolute_url}} "Surround with an if/else statement")
 
-![Surround with a try/catch statement]({{"/assets/surround-with-try.gif" | absolute_url}} "Surround with a try/catch statement")
+![Surround with a try/catch statement gif]({{"/assets/surround-with-try.gif" | absolute_url}} "Surround with a try/catch statement")

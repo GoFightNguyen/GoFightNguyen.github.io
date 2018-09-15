@@ -25,4 +25,4 @@ Word Next Extend Column: Ctrl + Shift + Alt + Right Arrow
 
 Word Previous Extend Column: Ctrl + Shift + Alt + Left Arrow
 
-![Extend Column]({{"/assets/extend-column.gif" | absolute_url}})
+![Extend Column gif]({{"/assets/extend-column.gif" | absolute_url}})
