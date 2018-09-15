@@ -7,7 +7,7 @@ tags: [Visual Studio Shortcuts, Edit]
 
 Sometimes we need to make an identical code change in the same column(s) of consecutive lines. Typing the change in each line is slow and annoying. Copy/paste is better, but still too inefficient.
 
-It would be great to select the column(s) in the consecutive lines and have whatever keys we press apply to each line. Visual Studio enables this through the set of __extend column__ shortcuts. These keyboard combinations are similar to their equivalent [extend selection]({{"/blog/2016-10-24-visual-studio-shortcut-extend-selection" | absolute_url}})  but include the Alt key.
+It would be great to select the column(s) in the consecutive lines and have whatever keys we press apply to each line. Visual Studio enables this through the set of __extend column__ shortcuts. These keyboard combinations are similar to their equivalent [extend selection]({{"/blog/visual-studio-shortcut-extend-selection" | absolute_url}})  but include the Alt key.
 <p> </p>
 Char Left Extend Column: Shift + Alt + Left Arrow
 
