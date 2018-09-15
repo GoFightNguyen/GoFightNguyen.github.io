@@ -7,6 +7,6 @@ tags: [Visual Studio Shortcuts, Edit]
 
 Format Document: Ctrl + K, Ctrl + D
 
-Last week, we learned how to [format selection]({{"/blog/visual-studio-shortcut-format-selection"}}). But if you would rather format the entire document, then try this Visual Studio shortcut.</p>
+Last week, we learned how to [format selection]({{"/blog/visual-studio-shortcut-format-selection"}}). But if you would rather format the entire document, then try this Visual Studio shortcut.
 
 ![format document gif]({{"/assets/format-document.gif" | absolute_url}})
