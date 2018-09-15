@@ -6,6 +6,7 @@ tags: [Visual Studio Shortcuts, Edit]
 ---
 
 Comment Selection: Ctrl + K, Ctrl + C
+
 Uncomment Selection: Ctrl + K, Ctrl + U
 
 ![comment uncomment selection gif]({{ "/assets/comment-uncomment-selection.gif" | absolute_url }})
