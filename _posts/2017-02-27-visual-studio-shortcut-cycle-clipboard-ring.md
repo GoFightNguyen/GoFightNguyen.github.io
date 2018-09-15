@@ -11,6 +11,6 @@ Visual Studio captures all copy/cut operations of text and stores them in the Cl
 
 The first press of the __Cycle Clipboard Ring__ shortcut will paste the current item to the document. Repeated presses of the shortcut will cycle through the Clipboard Ring. The item you stop on will be the only text pasted and then becomes the current item.
 
-Although I'm not a user of all things [ReSharper]("https://www.jetbrains.com/resharper/"), it does provide a fantastic window displaying all items in the Clipboard Ring.
+Although I'm not a user of all things [ReSharper](https://www.jetbrains.com/resharper/), it does provide a fantastic window displaying all items in the Clipboard Ring.
 
 ![cycle clipboard ring gif]({{"/assets/cycle-clipboard-ring.gif" | absolute_url}})
