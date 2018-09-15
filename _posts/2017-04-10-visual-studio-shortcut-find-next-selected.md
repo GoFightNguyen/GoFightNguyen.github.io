@@ -13,4 +13,4 @@ The previous two posts taught us about [Quick Find]({{"/blog/visual-studio-short
 
 ![find next selected gif]({{"/assets/find-next-previous-selected.gif" | absolute_url}})
 
-[Find Next/Previous]: ({{/blog/visual-studio-shortcut-find-next}})
+[Find Next/Previous]: {{"/blog/visual-studio-shortcut-find-next"}}
